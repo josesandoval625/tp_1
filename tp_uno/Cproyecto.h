@@ -12,7 +12,6 @@ using namespace std;
 class Cproyecto
 {
 private:
-
 	string Nombre;
 	tm FechaDeInicioDelProyecto;
 	tm FechaPropuestaDeFinalDelProyecto;
