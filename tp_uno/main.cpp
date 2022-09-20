@@ -1,5 +1,5 @@
 #include<iostream>
-
+#include"Cproyecto.h"
 using namespace std;
 
 int main()
