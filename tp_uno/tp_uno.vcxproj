@@ -139,11 +139,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cjefe.cpp" />
     <ClCompile Include="Cproyecto.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cjefe.h" />
     <ClInclude Include="Cproyecto.h" />
+    <ClInclude Include="EnumEstadoDeProyecto.h" />
+    <ClInclude Include="EnumEtapaDeProyecto.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
