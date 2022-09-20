@@ -141,12 +141,14 @@
   <ItemGroup>
     <ClCompile Include="Centrega.cpp" />
     <ClCompile Include="Cjefe.cpp" />
+    <ClCompile Include="Cprogramador.cpp" />
     <ClCompile Include="Cproyecto.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Centrega.h" />
     <ClInclude Include="Cjefe.h" />
+    <ClInclude Include="Cprogramador.h" />
     <ClInclude Include="Cproyecto.h" />
     <ClInclude Include="EnumEstadoDeProyecto.h" />
     <ClInclude Include="EnumEtapaDeProyecto.h" />
